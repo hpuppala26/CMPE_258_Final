@@ -1,0 +1,3 @@
+All Rights Reserved
+
+The entire code and its associated files, including but not limited to text, graphics, and images, are owned solely by the individuals who authored them. This includes code contributions from individuals within [Your Organization], who retain ownership of their contributions. No part of the code may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the respective authors, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
